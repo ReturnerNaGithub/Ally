@@ -57,8 +57,10 @@ h-full container mx-auto">
   animate="show"
   exit="hidden"
   className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16" >
-    Vam povem, da vam Anci zrihta u NULO. Ko se vas loti, vam ni pomoči. Lahko samo bežite.
-    Ampak fotografija bo nareta. In boste zelo zadovoljni. Saj ni tako hudo. Boste zadovoljni.
+   In the realm of digital artistry, where pixels dance to the rhythm of creativity,
+    there exists a unique artist who has mastered the craft of blending technology and imagination.
+    It delves into the fascinating world of an art designer who harnesses the power of Blender, Mixamo, Spline,
+    Krita, and a distinctive personal style to create mesmerizing 2D and 3D masterpieces.
   </motion.p>
   {/*btn*/}
   <div className="flex justify-center xl:hidden relative">
